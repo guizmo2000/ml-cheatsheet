@@ -4,7 +4,6 @@
 Loss Functions
 ==============
 
-.. contents:: :local:
 
 
 .. _loss_cross_entropy:
@@ -126,15 +125,3 @@ Mean Squared Error, or L2 loss. Excellent overview below [6] and [10].
     :pyobject: MSE_prime
 
 
-.. rubric:: References
-
-.. [1] https://en.m.wikipedia.org/wiki/Cross_entropy
-.. [2] https://www.kaggle.com/wiki/LogarithmicLoss
-.. [3] https://en.wikipedia.org/wiki/Loss_functions_for_classification
-.. [4] http://www.exegetic.biz/blog/2015/12/making-sense-logarithmic-loss/
-.. [5] http://neuralnetworksanddeeplearning.com/chap3.html
-.. [6] http://rishy.github.io/ml/2015/07/28/l1-vs-l2-loss/
-.. [7] https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
-.. [8] https://en.wikipedia.org/wiki/Huber_loss
-.. [9] https://en.wikipedia.org/wiki/Hinge_loss
-.. [10] http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
